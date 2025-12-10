@@ -1,12 +1,10 @@
 {
   "id": "cineby",
   "name": "Cineby",
-  "version": "1.0.0",
   "author": "Arjun",
+  "version": "1.0.0",
   "icon": "icon.png",
   "entry": "index.js",
   "type": "site",
-  "settings": {
-    "baseUrl": "https://www.cineby.gd/"
-  }
+  "url": "https://www.cineby.gd/"
 }
