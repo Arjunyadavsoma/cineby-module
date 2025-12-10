@@ -1,0 +1,36 @@
+# Source files (only include dist/)
+mods/src/
+mods/node_modules/
+mods/webpack.config.js
+mods/package.json
+
+service/node_modules/
+
+# Development files
+.git/
+.github/
+.vscode/
+.idea/
+
+# Documentation (except README)
+docs/
+*.md
+!README.md
+
+# Testing
+test/
+tests/
+*.test.js
+*.spec.js
+coverage/
+
+# CI/CD
+.travis.yml
+.gitlab-ci.yml
+azure-pipelines.yml
+
+# Misc
+*.log
+.DS_Store
+.env
+.env.*
