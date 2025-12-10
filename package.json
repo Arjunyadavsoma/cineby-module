@@ -1,0 +1,22 @@
+{
+  "name": "@Arjunyadavsoma/cineby-module",
+  "version": "1.0.0",
+  "description": "TizenBrew module for Cineby.gd",
+  "packageType": "mods",
+  "websiteURL": "https://www.cineby.gd/",
+  "main": "dist/userScript.js",
+  "serviceFile": "dist/service.js",
+  "keys": [
+    "MediaPlayPause",
+    "MediaPlay",
+    "MediaPause",
+    "MediaStop",
+    "MediaFastForward",
+    "MediaRewind"
+  ],
+  "evaluateScriptOnDocumentStart": false,
+  "license": "MIT",
+  "devDependencies": {
+    "webpack-cli": "^6.0.1"
+  }
+}
