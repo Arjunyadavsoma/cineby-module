@@ -1,0 +1,4 @@
+/* injector/inject.css */
+.module-dark { background:#111;color:#ddd; }
+.module-dark a { color:#8ab4f8; }
+button { padding:6px 10px; border-radius:6px; }
